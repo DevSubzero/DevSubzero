@@ -1,0 +1,1 @@
+-- Fun Fact: This Script Was Inspired By Redz Hub, Heres The Loadstring loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/REDzHUB/main/REDzHUB"))()
